@@ -1,0 +1,12 @@
+
+right now they are only turning away on one axis
+
+add obstacle avoidance
+add leader
+fix alignment
+
+well..cohesion factor also increases speed..
+
+animation speed - 0.1 min, 2 max
+
+vecocity of boids- roughly 1.14 to 1.22

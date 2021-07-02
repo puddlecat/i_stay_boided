@@ -1,0 +1,3 @@
+ok so a simpler solution- if it's within the avoidance zone, use that rotation. otherwise, use the other thing.
+
+maybe a simple solution is to add an attraction to the center of the tank???
